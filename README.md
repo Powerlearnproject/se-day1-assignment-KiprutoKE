@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 # Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+## a. Explain what software engineering is and discuss its importance in the technology industry.
 
 **Software engineering** is the disciplined approach to designing, creating, testing, and maintaining software applications. It combines principles from computer science and engineering to produce reliable, efficient, and scalable software.
 
@@ -15,7 +15,7 @@ Explain what software engineering is and discuss its importance in the technolog
 4. It facilitates better project management and resource allocation.
 5. It enables scalability and adaptability to changing technologies and user needs.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+## b. Identify and describe at least three key milestones in the evolution of software engineering.
 
 **1968 NATO Software Engineering Conference:** This conference highlighted the "software crisis" and led to the formalization of software engineering as a discipline.
 
@@ -24,7 +24,7 @@ Identify and describe at least three key milestones in the evolution of software
 **Agile Manifesto (2001):** The Agile manifesto promoted a new methodology focused on iterative development, collaboration, and adaptability, revolutionizing how software is developed and manage
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+## c. List and briefly explain the phases of the Software Development Life Cycle.
 
 **Requirements Analysis:** Understanding and documenting what the users need.
 
@@ -39,7 +39,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 **Maintenance:** Updating and fixing the software as needed.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+## d. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 **Waterfall:**
 
@@ -58,7 +58,7 @@ Suitable for projects with evolving requirements.
 Example: Developing a mobile app where user feedback is continuously integrated into the development process.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## e. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 **Software Developer:** Writes code, implements features, and fixes bugs. They are responsible for translating requirements into working software.
 
@@ -67,7 +67,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 **Project Manager:** Oversees the project, ensures it stays on track, manages resources, and communicates with stakeholders.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+## f. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 **IDEs:** Tools that provide comprehensive facilities to programmers for software development, including code editing, debugging, and testing. Example: Visual Studio.
 
@@ -96,11 +96,11 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 # Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+## a. Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering involves designing and refining prompts to interact effectively with AI models. It is crucial for obtaining accurate and relevant responses from AI, ensuring the AI understands the user's intent
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## b. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 **Vague Prompt:** "Tell me about history."
 
